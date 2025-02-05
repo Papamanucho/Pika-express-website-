@@ -19,6 +19,7 @@ img{
 
 h2 {
    in-bottom: 20px;
+   text-align: center;
 }
 
 .form-group {
@@ -29,7 +30,8 @@ label {
     display: block;
 }
 p{
-    font: size 18px;
+    font-size:  18px;
+    text-align: center;
 }
 
 input {
